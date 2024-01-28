@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-    image: domande1.png
+    image: banner_2.png
 ---
 
 
@@ -18,6 +18,7 @@ header:
 
 <!--### _Vorresti un supporto nello studio su misura per te?_-->
 
+<img src="/images/domande1_big.png"  width="1100" height="700">
 
 Sono una psicologa clinica, originaria di Verona, iscritta all'Ordine degli psicologi del Veneto. Attualmente specializzanda in Psicoterapia Cognitiva-Comportamentale.  Svolgo le mie attività a L’Aquila, Avezzano e online, presso diverse cooperative del territorio e in forma privata. 
 

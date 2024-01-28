@@ -4,8 +4,10 @@ title: "Contatti"
 permalink: /contatti/
 author_profile: true
 header:
-    image: psicoterapia-autunno.jpg
+    image: banner_servizi.png
 ---
+
+
 
 ## numero di telefono:
 
@@ -23,3 +25,4 @@ header:
 
 - online
 
+<img src="/images/psicoterapia-autunno.jpg"  width="700" height="300">

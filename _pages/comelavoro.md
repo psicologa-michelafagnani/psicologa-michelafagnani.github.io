@@ -1,11 +1,15 @@
 ---
 layout: archive
-title: "Un passo alla volta..."
+title: ""
 permalink: /comelavoro/
 author_profile: true
 header:
-    image: processo.png
+    image: banner_2.png
 ---
+
+<img src="/images/processo.png"  width="1100" height="900">
+
+# Un passo alla volta...
 
 1.    **Primo contatto** per telefono o e-mail: valuteremo insieme la Sua richiesta e fisseremo un primo appuntamento.
 1.    **Primo colloquio**: un momento fondamentale per identificare le questioni problematiche e stabilire insieme le modalità e gli obiettivi da perseguire.
