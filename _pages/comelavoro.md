@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Il mio processo di lavoro:"
+title: "Un passo alla volta..."
 permalink: /comelavoro/
 author_profile: true
 header:
@@ -12,3 +12,7 @@ header:
 1.    **Inizio del percorso** cucito su misura secondo le caratteristiche ed esigenze della persona. La durata è variabile e dipende da molti fattori, come dal tipo di servizio e la richiesta avanzata. 
 1.    **Avvio alla conclusione** e disponibilità per diverse evenienze, quali monitoraggio e valutazione nel tempo degli effetti raggiunti.
 
+
+## Il mio approccio al benessere mentale
+
+La Psicoterapia Cognitivo-Comportamentale ([CBT](https://it.wikipedia.org/wiki/Psicoterapia_cognitivo-comportamentale), dall'inglese _Cognitive Behavioral Therapy_) è uno dei modelli più affidabili ed efficaci usati per comprendere e trattare i disturbi psicopatologici e in generale per affrontare le sfide legate alla salute mentale. Ideata negli anni '60 da [Aaron Beck](https://en.wikipedia.org/wiki/Aaron_Beck) e [Albert Ellis](https://en.wikipedia.org/wiki/Albert_Ellis), si basa sull'importante concetto che i nostri pensieri influenzano direttamente il nostro benessere emotivo. Se i nostri pensieri sono distorti e poco funzionali, il nostro stato d'animo può risentirne negativamente. La CBT ci guida nel comprendere a fondo e modificare questi schemi di pensiero, migliorando così il nostro comportamento e la gestione delle situazioni complesse. In breve, la CBT rappresenta un prezioso strumento per trasformare il nostro modo di pensare, e di conseguenza di agire, al fine di migliorare la qualità della nostra vita. 
