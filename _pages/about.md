@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-    image: banner_homepage.png
+    image: domande1.png
 ---
 
 

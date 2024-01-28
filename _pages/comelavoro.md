@@ -3,6 +3,8 @@ layout: archive
 title: "Il mio processo di lavoro:"
 permalink: /comelavoro/
 author_profile: true
+header:
+    image: processo.png
 ---
 
 1.    **Primo contatto** per telefono o e-mail: valuteremo insieme la Sua richiesta e fisseremo un primo appuntamento.

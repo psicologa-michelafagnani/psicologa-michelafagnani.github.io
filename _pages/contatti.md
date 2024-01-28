@@ -3,6 +3,8 @@ layout: archive
 title: "Contatti"
 permalink: /contatti/
 author_profile: true
+header:
+    image: psicoterapia-autunno.jpg
 ---
 
 ## numero di telefono:
