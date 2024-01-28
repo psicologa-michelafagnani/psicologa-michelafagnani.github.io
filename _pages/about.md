@@ -22,7 +22,9 @@ header:
 
 Sono una psicologa clinica, originaria di Verona, iscritta all'Ordine degli psicologi del Veneto. Attualmente specializzanda in Psicoterapia Cognitiva-Comportamentale.  Svolgo le mie attività a L’Aquila, Avezzano e online, presso diverse cooperative del territorio e in forma privata. 
 
-### FORMAZIONE IN BREVE 
+Esplora [come lavoro](/comelavoro/) e  [di cosa mi occupo](/dicosamioccupo/), infine clicca [qui](/contatti/) per i miei contatti. 
+
+### La mia formazione in breve: 
 - Attualmente in formazione specialistica presso la Scuola Italiana di Cognitivismo Clinico [SICC](https://apc.it/) di Roma. 
 - Ho conseguito un Master II livello in Psicologia Scolastica e Psicopatologia dell’Apprendimento, presso l’Università degli Studi di Firenze.
 - Ho ottenuto una Laurea Magistrale in Neuroscienze e Riabilitazione Neuropsicologica, presso l’Università degli Studi di Padova; e una Laurea triennale in Scienze e Tecniche di Psicologia Cognitiva, presso l’Università degli studi di Trento.

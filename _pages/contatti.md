@@ -7,11 +7,11 @@ header:
     image: banner_servizi.png
 ---
 
-
+<img src="/images/psicoterapia-autunno.jpg"  width="1000" height="500">
 
 ## numero di telefono:
 
-3491063746
+[3491063645](tel:3491063645)
 
 ## e-mail:
 
@@ -25,4 +25,4 @@ header:
 
 - online
 
-<img src="/images/psicoterapia-autunno.jpg"  width="700" height="300">
+
