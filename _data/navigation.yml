@@ -1,22 +1,12 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Come Lavoro"
+    url: /comelavoro/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Di Cosa Mi Occupo"
+    url: /dicosamioccupo/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Contatti"
+    url: /contatti/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
