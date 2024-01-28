@@ -7,7 +7,7 @@ header:
     image: banner_servizi.png
 ---
 
-<img src="/images/psicoterapia-autunno.jpg"  width="1000" height="500">
+Contattatemi liberamente scrivendomi via [whatsapp](tel:3491063645), [messaggi](tel:3491063645) e [email](mailto:psicologamichelafagnani@gmail.com); o [chiamatemi](tel:3491063645), riferendovi ai seguenti contatti:
 
 ## numero di telefono:
 
@@ -25,4 +25,4 @@ header:
 
 - online
 
-
+<img src="/images/psicoterapia-autunno.jpg"  width="1000" height="500">

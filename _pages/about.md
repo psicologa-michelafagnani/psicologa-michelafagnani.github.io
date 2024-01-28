@@ -32,5 +32,6 @@ Esplora [come lavoro](/comelavoro/) e  [di cosa mi occupo](/dicosamioccupo/), in
 
 <!--<img src="/images/profilo_2.jpg"  width="500" height="200">-->
 
+Scropri di più cliccando [qui](/comelavoro/)
 
 <sub>P.IVA 04912810233; iscrizione Albo A degli psicologi del Veneto N. 12980</sub>
