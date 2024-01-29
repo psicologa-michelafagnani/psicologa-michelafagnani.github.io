@@ -25,6 +25,6 @@ header:
 <img src="/images/over_65.png"  width="700" height="300">
 
 
-Scropri di più cliccando [qui](/contatti/)
+Scopri di più cliccando [qui](/contatti/)
 
 
