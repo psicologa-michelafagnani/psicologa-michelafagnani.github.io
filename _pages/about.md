@@ -30,7 +30,7 @@ Esplora [come lavoro](/comelavoro/) e  [di cosa mi occupo](/dicosamioccupo/), in
 - Ho ottenuto una Laurea Magistrale in Neuroscienze e Riabilitazione Neuropsicologica, presso l’Università degli Studi di Padova; e una Laurea triennale in Scienze e Tecniche di Psicologia Cognitiva, presso l’Università degli studi di Trento.
 
 
-<img src="/images/profilo_2_trimmed.jpeg"  width="500" height="200">
+<img src="/images/profilo_2_trimmed_v2.jpg"  width="500" height="200">
 
 Scopri di più cliccando [qui](/comelavoro/)
 
