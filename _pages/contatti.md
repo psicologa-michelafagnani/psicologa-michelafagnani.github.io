@@ -19,7 +19,7 @@ Contattatemi liberamente scrivendomi via [whatsapp](tel:3491063645), [messaggi](
 
 ## Ricevo presso:
 
-- [Centro Alternativa-Mente](https://alternativa-mente.it/) (Piazzale Sant'Antonio, 8, 67100 L'Aquila). [indicazioni](https://maps.app.goo.gl/m3UfosPc2AyPPeZV8)
+- [Centro Alternativa-Mente](https://alternativa-mente.it/) (Largo Antonio D'Agostino, 3, 67100 L'Aquila). [indicazioni](https://maps.app.goo.gl/JS1WvM28HfFUN1Dx5)
 
 - [Cooperativa Girasoli](https://www.igirasoliavezzano.it/) (Piazza J.F. Kennedy, 67051 Avezzano) [indicazioni](https://maps.app.goo.gl/cEJpSXrwFPyaZ2BVA)
 
